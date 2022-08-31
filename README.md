@@ -21,11 +21,12 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
 
 ## Academic
 
+#### BS in Computer Science
+
+
 ### Education
 
 ### Coursework
-
-#### BS in Computer Science
 
 ## Skills
 
