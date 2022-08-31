@@ -5,13 +5,13 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
 ## Table of Contents
 
 - [Academic](#academic)
-  - [Academic 1](#academic 1)
+  - [Academic 1](#academic1)
 - Projects(#projects)
-  - [Project 1#](project 1)
+  - [Project 1](#project1)
 
 ## Academic
 
-### Academic 1
+### Academic1
 
 ## Projects
 
