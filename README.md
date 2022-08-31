@@ -7,8 +7,14 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
 - [Academic](#academic)
   - [Education](#education)
   - [Coursework](#coursework)
+- [Skills](#skills)
 - [Projects](#projects)
-  - [Project 1](#project-1)
+  - [CookI/O](#cookio)
+  - [Snowdrop](#snowdrop)
+  - [PacMan Solver](#pacman-solver)
+  - [Korean-American Scientists Engineers Association YG Purdue Website]
+  - [F1 Racing Result Estimator](#f1-racing-result-estimator)
+  - [Using Depth of Field for Better Depth Perception in VR Applications](#using-depth-of-field-for-better-depth-perception-in-vr-applications)
 - [Experiences](#experiences)
   - [Work Experiences](#work-experiences)
   - [Activities and Leadership](#activities-and-leadership)
@@ -21,9 +27,11 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
 
 #### BS in Computer Science
 
+## Skills
+
 ## Projects
 
-### Project 1
+### CookI/O
 
 ## Experiences
 
