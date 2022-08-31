@@ -6,18 +6,30 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
 
 - [Academic](#academic)
   - [Education](#Education)
+  - [Coursework](#Coursework)
 - [Projects](#projects)
   - [Project 1](#project1)
+- [Experiences](#Experiences)
+  - [Work Experiences](#Work Experiences)
+  - [Activities and Leadership](#Activities and Leadership)
 
 ## Academic
 
 ### Education
+
+### Coursework
 
 #### BS in Computer Science
 
 ## Projects
 
 ### Project 1
+
+## Experiences
+
+### Work Experiences
+
+### Activities and Leadership
 
 <!--
 **jihyunp30/jihyunp30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
