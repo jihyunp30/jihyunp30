@@ -1,4 +1,4 @@
-# Jihyun Pyun - Work in Progress
+# [Work in Progress] Jihyun Pyun
 
 Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science at Purdue University.
 
