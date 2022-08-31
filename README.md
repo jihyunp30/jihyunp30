@@ -5,13 +5,13 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
 ## Table of Contents
 
 - [Academic](#academic)
-  - [Education](#Education)
-  - [Coursework](#Coursework)
+  - [Education](#education)
+  - [Coursework](#coursework)
 - [Projects](#projects)
-  - [Project 1](#project1)
-- [Experiences](#Experiences)
-  - [Work Experiences](#WorkExperiences)
-  - [Activities and Leadership](#activitiesandleadership)
+  - [Project 1](#project-1)
+- [Experiences](#experiences)
+  - [Work Experiences](#work-experiences)
+  - [Activities and Leadership](#activities-and-leadership)
 
 ## Academic
 
