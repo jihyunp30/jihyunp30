@@ -6,7 +6,7 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
 
 - [Academic](#academic)
   - [Academic 1](#academic1)
-- Projects(#projects)
+- [Projects](#projects)
   - [Project 1](#project1)
 
 ## Academic
