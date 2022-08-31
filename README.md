@@ -11,7 +11,7 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
   - [Project 1](#project1)
 - [Experiences](#Experiences)
   - [Work Experiences](#WorkExperiences)
-  - [Activities and Leadership](#ActivitiesandLeadership)
+  - [Activities and Leadership](#Activities\ and\ Leadership)
 
 ## Academic
 
