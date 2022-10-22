@@ -31,6 +31,8 @@ Implementation of Neural style transfer using Python Tensorflow.
 ![output2](https://user-images.githubusercontent.com/70607277/197365018-caca10b7-ad62-431b-b8cb-a19849fd35c6.jpg)
 
 ### Korean-American Scientists Engineers Association YG Purdue Website
+<img width="1680" alt="Screen Shot 2022-10-22 at 7 00 26 PM" src="https://user-images.githubusercontent.com/70607277/197365453-bf036996-14c1-45f2-9896-75962527f9b6.png">
+<img width="1680" alt="Screen Shot 2022-10-22 at 7 01 14 PM" src="https://user-images.githubusercontent.com/70607277/197365454-b90be3a8-e4f1-4e0f-a07a-a6ef35b59cb9.png">
 
 ### F1 Racing Result Estimator
 
