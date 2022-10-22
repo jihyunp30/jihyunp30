@@ -5,20 +5,19 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
 ## Table of Contents
 
 - [Projects](#projects)
-  - [CookI/O](#cookio)
   - [Snowdrop](#snowdrop)
+  - [CookI/O](#cookio)
   - [PacMan Solver](#pacman-solver)
   - [Neural Stype Transfer](#neural-style-transfer)
-
   - [Korean-American Scientists Engineers Association YG Purdue Website](#korean-american-scientists-engineers-association-yg-purdue-website)
   - [F1 Racing Result Estimator](#f1-racing-result-estimator)
   - [Using Depth of Field for Better Depth Perception in VR Applications](#using-depth-of-field-for-better-depth-perception-in-vr-applications)
 
 ## Projects
 
-### CookI/O
-
 ### Snowdrop
+
+### CookI/O
 
 ### PacMan Solver
 
