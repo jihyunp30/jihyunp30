@@ -16,6 +16,7 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
 ## Projects
 
 ### Snowdrop
+![KakaoTalk_Photo_2022-10-27-00-15-34](https://user-images.githubusercontent.com/70607277/198190299-9fce26cf-c505-4807-8d91-deea9d265efc.png)![KakaoTalk_Photo_2022-10-27-00-16-06](https://user-images.githubusercontent.com/70607277/198190323-6dd45653-26e0-4f9d-8fdc-9f9d9bda5e33.png)![KakaoTalk_Photo_2022-10-27-00-16-49](https://user-images.githubusercontent.com/70607277/198190360-274b11e4-3d0b-4d44-87d4-b50dc407c1a8.png)![KakaoTalk_Photo_2022-10-27-00-17-27](https://user-images.githubusercontent.com/70607277/198190369-9a0af556-6e57-4181-9b33-cd3783977a2e.png)
 
 ### CookI/O
 
@@ -35,6 +36,6 @@ Implementation of Neural style transfer using Python Tensorflow.
 <img width="1680" alt="Screen Shot 2022-10-22 at 7 01 14 PM" src="https://user-images.githubusercontent.com/70607277/197365454-b90be3a8-e4f1-4e0f-a07a-a6ef35b59cb9.png">
 
 ### F1 Racing Result Estimator
-
+Click [here](https://drive.google.com/file/d/1IExS75unrdOn3nj3rD_xTTD501-Et6cM/view?usp=sharing) for the report.
 ### Using Depth of Field for Better Depth Perception in VR Applications
 Click [here](https://drive.google.com/file/d/1ROwolC2JzoqbTWxbzRQZfO97BPiFcgoM/view?usp=sharing) for the report.
