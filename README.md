@@ -16,7 +16,12 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
 ## Projects
 
 ### Snowdrop
-![KakaoTalk_Photo_2022-10-27-00-15-34](https://user-images.githubusercontent.com/70607277/198190299-9fce26cf-c505-4807-8d91-deea9d265efc.png)![KakaoTalk_Photo_2022-10-27-00-16-06](https://user-images.githubusercontent.com/70607277/198190323-6dd45653-26e0-4f9d-8fdc-9f9d9bda5e33.png)![KakaoTalk_Photo_2022-10-27-00-16-49](https://user-images.githubusercontent.com/70607277/198190360-274b11e4-3d0b-4d44-87d4-b50dc407c1a8.png)![KakaoTalk_Photo_2022-10-27-00-17-27](https://user-images.githubusercontent.com/70607277/198190369-9a0af556-6e57-4181-9b33-cd3783977a2e.png)
+<p float="left">
+<img src="https://user-images.githubusercontent.com/70607277/198190299-9fce26cf-c505-4807-8d91-deea9d265efc.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/70607277/198190323-6dd45653-26e0-4f9d-8fdc-9f9d9bda5e33.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/70607277/198190360-274b11e4-3d0b-4d44-87d4-b50dc407c1a8.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/70607277/198190369-9a0af556-6e57-4181-9b33-cd3783977a2e.png" width=20% height=20%>
+</p>
 
 ### CookI/O
 
