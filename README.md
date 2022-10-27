@@ -28,6 +28,8 @@ Hello. My name is Jihyun Pyun. I'm pursuing Master's degree in Computer Science 
 ### PacMan Solver
 https://user-images.githubusercontent.com/70607277/198192209-646cd9b4-99f3-43e0-adb9-8fcf3e8761b6.mov
 
+<img width="703" alt="Screen Shot 2022-10-27 at 12 32 19 AM" src="https://user-images.githubusercontent.com/70607277/198192040-4f219da2-4fdf-496a-bd9c-ba2ec21c7ed9.png">
+
 ### Neural Stype Transfer
 Implementation of Neural style transfer using Python Tensorflow.
 
