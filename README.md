@@ -46,6 +46,7 @@ Implementation of Neural style transfer using Python Tensorflow.
 ### Using Depth of Field for Better Depth Perception in VR Applications
 https://user-images.githubusercontent.com/70607277/198199295-cd77a531-5ea6-4350-bf62-9a382585b1c7.mp4
 
+Click [here](https://drive.google.com/file/d/1zzjBsOTGXbTg0umieDnTj3sY8hFNkLdi/view?usp=sharing) for the full video.
 Click [here](https://drive.google.com/file/d/1ROwolC2JzoqbTWxbzRQZfO97BPiFcgoM/view?usp=sharing) for the report.
 
 ### F1 Racing Result Estimator
